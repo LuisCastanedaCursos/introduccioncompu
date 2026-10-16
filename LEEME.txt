@@ -1,0 +1,28 @@
+CIBERESCUDO — Aventura Digital
+================================
+Abre index.html directamente con Chrome, Firefox o Edge. No se necesita Internet.
+No se utilizan bibliotecas externas. Archivos: index.html, styles.css, script.js.
+
+CONTROLES
+Flechas izquierda/derecha o A/D: caminar.
+Espacio / flecha arriba / W: saltar.
+E: investigar terminales y cruzar portales.
+Q: escudo breve para atravesar un obstáculo.
+En pantallas táctiles hay controles superpuestos.
+
+PARA JUGAR
+Registra entre 1 y 6 integrantes y el curso.
+En cada mundo, atraviesa el escenario, recoge chips y llega a la terminal (◆).
+Resuelve un acertijo para activar la terminal y alcanza el portal (SALIDA).
+En el mundo final hay 3 terminales y luego el portal.
+Si pierdes 5 vidas, comienzas desde el mundo 1.
+Al finalizar aparecen la nota sobre 5.0 y certificados PNG e impresión/PDF.
+
+EVALUACIÓN
+Mundos 1-6: máximo 100 puntos cada uno.
+Mundo 7: 130+130+140 = máximo 400 puntos.
+Se descuentan puntos por errores y ayudas. La exploración con plataformas no da nota.
+
+NOTA
+Este juego usa el navegador local y no incluye servicios ni ataques reales.
+Se puede inspeccionar el código fuente por ser un juego offline.
